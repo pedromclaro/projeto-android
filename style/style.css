@@ -56,10 +56,11 @@ header > p {
 }
 
 nav {
+    text-align: center;
     background-color: #275a48;
     height: auto;
     width: auto;
-    padding: 10px;
+    padding: 15px;
 }
 
 nav > a {
@@ -68,7 +69,7 @@ nav > a {
     font-weight: normal;
     text-decoration: none;
     margin: 0px;
-    padding: 15px;
+    padding: 10px;
     transition-duration: 0.5s;
     transition-delay: 0.2s;
 }
