@@ -200,11 +200,7 @@ footer {
 }
 
 footer a {
-    text-decoration: underline;
+    text-decoration: none;
     color: #ffffff;
-}
-
-footer:hover {
-    background-color: #1c4134;
     font-weight: bold;
 }
